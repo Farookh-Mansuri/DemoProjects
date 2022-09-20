@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "firstName": "Farookh",
+  "lastName": "Mansuri",
+  "balance": 680954
+ },
+ {
+  "id": 2,
+  "firstName": "Saumya",
+  "lastName": "Gupta",
+  "balance": 5000
+ },
+ {
+  "id": 3,
+  "firstName": "Vikas",
+  "lastName": "Kumar",
+  "balance": 2000
+ },
+ {
+  "id": 4,
+  "firstName": "Farookh",
+  "lastName": "Ahmed",
+  "balance": 680954
+ },
+ {
+  "id": 5,
+  "firstName": "Amit",
+  "lastName": "Kumar",
+  "balance": 289792
+ }
+]
